@@ -9,7 +9,7 @@ The Jupyter notebooks below showcase some of the new features in in FMI 3.0.
 
 ## Run the notebooks in the cloud
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/t-sommer/fmi3-features/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrbertsch/fmi3-features/blob/main/)
 
 ## Run the notebooks locally
 
